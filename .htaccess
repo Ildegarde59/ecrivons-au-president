@@ -1,0 +1,4 @@
+ErrorDocument 404 /error.php?error_type=404
+ErrorDocument 403 /error.php?error_type=403
+
+Options -Indexes +FollowSymLinks
