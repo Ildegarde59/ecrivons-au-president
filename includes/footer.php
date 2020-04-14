@@ -5,5 +5,5 @@
 				<li><a class="<?php echo $confidentialite_active; ?>" href="/confidentialite.php" title="Lire la politique de confidentialité et de traitement des données personnelles"><i class="fa fa-lock" aria-hidden="true"></i>&nbsp;Confidentialté</a></li>
 			<ul/>
 			<p><a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/deed.fr"><i class="fa fa-creative-commons" aria-hidden="true"></i> BY-NC 4.0&nbsp;<i class="fa fa-external-link" aria-hidden="true"></i></a> &mdash;
-			<span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Site conçu par Bastien Tréhoux</span>&nbsp;©&nbsp;2020</p>
+			Site conçu par <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Bastien Tréhoux</span>&nbsp;©&nbsp;2020</p>
 </footer>
