@@ -21,7 +21,7 @@
         <h2>Services tiers utilisés sur ce site utilisant des cookies</h2>
         <ul>
           <li><strong>Google Fonts&nbsp;:</strong> permet d’afficher une police de caractères personnalisée sur le site &mdash; ne collecte pas de données&nbsp;;</li>
-          <!--<li><strong>Google Analytics&nbsp;:</strong> permet d’effectuer des statistiques de mesures d’audiences, basées sur les données recueillies par le moteur de recherche Google &mdash; collecte des données personnelles&nbsp;;</li>-->
+          <li><strong>Google Analytics&nbsp;:</strong> permet d’effectuer des statistiques de mesures d’audiences, basées sur les données recueillies par le moteur de recherche Google &mdash; collecte des données personnelles&nbsp;;</li>
           <li><strong>Google Forms&nbsp;:</strong> permet de créer un formulaire à compléter (ici utilisé pour recueillir les signatures) &mdash; collecte des données personnelles&nbsp;;</li>
           <li><strong>ForkAwesome&nbsp;:</strong> affiche des icônes sur le site &mdash; ne collecte pas de données&nbsp;;</strong></li>
           <li><strong>CookieConsent by Insites</strong>&nbsp;: prévient les utilisteurs de l’utilisation de cookies &mdash; ne collecte pas de données.</li>
