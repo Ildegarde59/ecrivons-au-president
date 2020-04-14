@@ -20,6 +20,7 @@
 		<article>
       <section>
         <p><em>Voici la lettre à l’intention d’Emmanuel Macron que nous souhaitons envoyer avec votre soutien.</em></p>
+        <p><strong><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;Dernière mise à jour&nbsp;:</strong> 14 avril 2020</strong></p>
       </section>
       <section class="lettre">
         <p><strong/>Objet&nbsp;:</strong> Enjeux sociaux et environnementaux après la pandémie de Covid-19</p>
@@ -31,6 +32,11 @@
         <p class="p-right">Merci M. Macron d’avoir pris le temps de nous lire.</p>
       </section>
 	  </article>
+    <section>
+      <p><em>Si tu as des suggestions, des idées pour améliorer cette lettre, n’hésite pas à en faire part dans les commentaires. Veille à rester poli⋅e, courtois⋅e et à ne pas exprimer de propos haineux ou grossiers, auquel cas les modérateurs du site se réservent le droit de supprimer tes commentaires.</em></p>
+      <script defer src="https://cdn.commento.io/js/commento.js" data-no-fonts="true"></script>
+      <div id="commento"></div>
+    </section>
   	<?php /* Footer */ include "includes/footer.php" ; ?>
 </body>
 </html>

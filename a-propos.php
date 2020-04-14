@@ -19,6 +19,8 @@
       <section>
         <h2>Qui sommes-nous&nbsp;?</h2>
         <p>Nous sommes un groupe de jeunes apolitisé et sans statut légal qui ont décidé d’écrire une lettre au président pour peser sur les décisions prises par celui-ci.</p>
+        <h3>Directeur de la publication</h3>
+        <p>Le directeur de la publication de ce site est Bastien Tréhoux. Pour le contacter, utilisez l’adresse de courriel ci-dessous.</p>
         <h3>Initiateurs du projet&nbsp;:</h3>
           <ul>
             <li><a href="https://twitter.com/bastientrehoux" target="_blank" title="Compte Twitter de Bastien Tréhoux"><i class="fa fa-twitter" aria-hidden="true"></i> Bastien Tréhoux <i class="fa fa-external-link" aria-hidden="true"></i></a>, lycéen, Hauts-de-France</li>

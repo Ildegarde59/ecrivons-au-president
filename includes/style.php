@@ -14,7 +14,7 @@ window.cookieconsent.initialise({
     }
   },
   "content": {
-    "message": "Ce site web utilise des cookies ainsi qu’un outil de mesure de statistiques d’audience. En poursuivant ta navigation tu consens à cela.",
+    "message": "Ce site web utilise des cookies et services tiers dans le but d’améliorer l’expérience utilisateur. En poursuivant ta navigation tu consens à cela.",
     "dismiss": "J&rsquo;ai compris",
     "link": "En savoir plus&nbsp;&rsaquo;",
     "href": "/confidentialite.php"
