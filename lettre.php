@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Notre projet<?php /* Titre du site */include "includes/title.php"; ?></title>
+    <title>La lettre<?php /* Titre du site */include "includes/title.php"; ?></title>
 	<!-- CSS -->
 	<?php include "includes/style.php"; ?>
 
