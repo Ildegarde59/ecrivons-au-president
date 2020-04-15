@@ -25,6 +25,8 @@
           <ul>
             <li><a href="https://twitter.com/bastientrehoux" target="_blank" title="Compte Twitter de Bastien Tréhoux"><i class="fa fa-twitter" aria-hidden="true"></i> Bastien Tréhoux <i class="fa fa-external-link" aria-hidden="true"></i></a>, lycéen, Hauts-de-France</li>
           </ul>
+        <h3>Contributions</h3>
+        <p>Toutes les contributions au projet sont bienvenues. Chaque contributeur⋅rice, s’il/elle le souhaite, peut demander à afficher son nom ou pseudonyme sur cette page. Surtout, n’hésite pas à faire remonter des erreurs sur le site telles que des fautes d’orthographe ou autres.</p>
       </section>
       <section>
         <h2>Nous contacter</h2>
