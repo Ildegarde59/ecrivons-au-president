@@ -26,7 +26,7 @@
 	</section>
         <section>
           <h2>Comment procède-t-on concrètement&nbsp;?</h2>
-          <p>Nous avons déjà rédigé une lettre que tu peux consulter <a href="/lettre.php" title="Consulter la lettre à l’attention du président">ici</a>. Après l’avoir lue attentivement, si tu es d’accord avec ce qui est écrit, tu pourras bientôt remplir le formulaire en ligne. Nous nous chargerons d’envoyer la lettre à Emmanuel Macron par la poste, avec toutes les signatures recueillies.</p>
+          <p>Nous avons déjà rédigé une lettre que tu peux consulter <a href="/lettre.php" title="Consulter la lettre à l’attention du président">ici</a>. Après l’avoir lue attentivement, si tu es d’accord avec ce qui est écrit, tu pourras bientôt remplir le formulaire en ligne. Nous nous chargerons d’envoyer la lettre à Emmanuel Macron par la poste, avec toutes les signatures recueillies. Tu peux d’ores et déjà contribuer à l’améliorer via les commentaires.</p>
         </section>
         <section>
           <h2>Qui peut participer&nbsp;?</h2>
