@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="/css/plucssmin.css">
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+<link rel="icon" type="image/png" href="/img/logo-eap.png" />
+<link rel="apple-touch-icon" type="image/png" href="/img/logo-eap.png" />
 <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
 <script>
 window.addEventListener("load", function(){
