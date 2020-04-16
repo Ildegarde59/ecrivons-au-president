@@ -6,3 +6,6 @@ Options -Indexes +FollowSymLinks
 RewriteEngine On
 RewriteCond %{SERVER_PORT} 80
 RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteCond %{HTTP_HOST} ^ecrivonsaupresident.yn.fr
+RewriteRule (.*) https://www.ecrivonsaupresident.yn.fr$1 [R=301,L]
