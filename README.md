@@ -1,6 +1,9 @@
 # Écrivons au président&nbsp;!
+Site écrit en PHP. Toutes les contributions sont la bienvenue.
 ## Bibliothèques logicielles utilisées
-Toutes les bibliothèques utilisées pour la création de ce site sont libres ou open sources.
-  * [PluCSS](https://plucss.pluxml.org)
+### Bibliothèques open source :
   * [ForkAwesome](https://forkawes.me)
   * [CookieConsent](https://cookieconsent.osano.com)
+  * [Commento](https://commento.io)
+### Bibliothèques non-libres :
+  * [Google Fonts](https://fonts.google.com)
