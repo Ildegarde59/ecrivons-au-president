@@ -34,8 +34,27 @@
 	  </article>
     <section>
       <p><em>Si tu as des suggestions, des idées pour améliorer cette lettre, n’hésite pas à en faire part dans les commentaires. Veille à rester poli⋅e, courtois⋅e et à ne pas exprimer de propos haineux ou grossiers, auquel cas les modérateurs du site se réservent le droit de supprimer tes commentaires.</em></p>
-      <script defer src="https://cdn.commento.io/js/commento.js" data-no-fonts="true"></script>
-      <div id="commento"></div>
+      <div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://ecraupres.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
     </section>
   	<?php /* Footer */ include "includes/footer.php" ; ?>
 </body>

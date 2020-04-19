@@ -104,14 +104,9 @@ h1[class="error-doc"] {
 /* ForkAwsome */
 
 
-/* Cookie Consent */
-.cc-banner, .cc-window, .cc-revoke, .cc-message {
-    font-family: "Work Sans", sans-serif;
-}
-
-.cc-link {
-    text-decoration: none;
-    font-weight: 500;
+/* tarteaucitron.js */
+#tarteaucitronRoot * {
+  font-family: "Work Sans", sans-serif;
 }
 
 /* Autres */
@@ -131,9 +126,6 @@ h1[class="error-doc"] {
     align-items: flex-start;
   }
 
-  .g-form {
-    height: 1700px;
-  }
 }
 
 /* Thème sombre */
@@ -143,7 +135,4 @@ h1[class="error-doc"] {
 		color: white;
 	}
 	
-	.cc-banner, .cc-window, .cc-revoke, .cc-message, .cc-color-override-403166826 {
-    background-color: darkslategrey;
-}
 }
