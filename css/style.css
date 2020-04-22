@@ -25,6 +25,9 @@ a:hover {
 header {
     padding-bottom: 1em;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 header a, header a:hover, header a:visited {
@@ -62,10 +65,13 @@ footer {
     text-align: center;
 }
 
-header h1 {
-    margin-top: 0;
-    padding-top: 0.5em;
-    font-weight: bolder;
+header .logo{
+  text-align: center;
+  width: 6em;
+  height: 6em;
+  margin-top: 0;
+  padding-top: 0.5em;
+  background: center / contain no-repeat url('/img/titre-lrg.png');
 }
 
 h1 {
@@ -124,6 +130,16 @@ h1[class="error-doc"] {
     justify-content: flex-start;
     text-align: left;
     align-items: flex-start;
+  }
+
+  header .logo {
+    background: center / contain no-repeat url('/img/titre-sml.png');
+    width: 17em;
+    height: 7em;
+  }
+
+  header {
+    flex-direction: column;
   }
 
 }

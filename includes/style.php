@@ -1,7 +1,8 @@
-<meta name="description" content="Site web d’un groupe de jeunes et de moins jeunes apolitisé et sans statut légal qui ont décidé d’écrire une lettre au président pour peser sur les décisions prises par le gouvernement.">
+<meta name="description" content="Site web d’un groupe de jeunes apolitisé et sans statut légal qui ont décidé d’écrire une lettre au président pour peser sur les décisions prises par le gouvernement.">
+<meta xmlns:dct="http://purl.org/dc/terms/" property="dct:title" content="Écrivons au président !" />
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
-<link rel="icon" type="image/png" href="/img/logo-eap.png" />
-<link rel="apple-touch-icon" type="image/png" href="/img/logo-eap.png" />
+<link rel="icon" type="image/png" href="/img/favicon.png" />
+<link rel="apple-touch-icon" type="image/png" href="/img/touch-icon.png" />
 <script type="text/javascript" src="/tarteaucitron/tarteaucitron.js"></script>
 
   <script type="text/javascript">
