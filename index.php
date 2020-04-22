@@ -30,7 +30,7 @@
         </section>
         <section>
           <h2>Qui peut participer&nbsp;?</h2>
-          <p>Toute personne française ou vivant en France peuvent participer quel que soit son âge.</p>
+          <p>Toute personne française ou vivant en France peut participer quel que soit son âge.</p>
         </section>
         <section>
         	<h2><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;Calendrier</h2>

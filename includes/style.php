@@ -1,3 +1,4 @@
+<meta name="description" content="Site web d’un groupe de jeunes et de moins jeunes apolitisé et sans statut légal qui ont décidé d’écrire une lettre au président pour peser sur les décisions prises par le gouvernement.">
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 <link rel="icon" type="image/png" href="/img/logo-eap.png" />
 <link rel="apple-touch-icon" type="image/png" href="/img/logo-eap.png" />
