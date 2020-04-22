@@ -33,7 +33,7 @@
       </section>
 	  </article>
     <section>
-      <p><em>Si tu as des suggestions, des idées pour améliorer cette lettre, n’hésite pas à en faire part dans les commentaires. Veille à rester poli⋅e, courtois⋅e et à ne pas exprimer de propos haineux ou grossiers, auquel cas les modérateurs du site se réservent le droit de supprimer tes commentaires.</em></p>
+      <p><em>Si vous avez des suggestions, des idées pour améliorer cette lettre, n’hésitez pas à en faire part dans les commentaires. Veillez à rester poli⋅e, courtois⋅e et à ne pas exprimer de propos haineux ou grossiers, auquel cas les modérateurs du site se réservent le droit de supprimer vos commentaires.</em></p>
       <div id="disqus_thread"></div>
 <script>
 
@@ -53,7 +53,7 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<noscript>L’utilisation des commentaires via le service <a href="https://disqus.com/?ref_noscript">Disqus</a> nécessite l’activation de JavaScript dans les paramètres de votre navigateur Web.</noscript>
                             
     </section>
   	<?php /* Footer */ include "includes/footer.php" ; ?>

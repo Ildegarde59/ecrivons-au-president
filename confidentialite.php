@@ -33,7 +33,7 @@
       </section>
       <section>
         <h2>Des questions</h2>
-        <p>Si tu as des questions quant à cette politique de confidentialité, tu peux nous contacter à <a href="mailto:?to=contact@ecrivonsaupresident.yn.fr&subject=Question%20par%20rapport%20à%20la%20politique%20de%20confidentialité" title="Envoyer un mail">contact@ecrivonsaupresident.yn.fr</a>.</p>
+        <p>Si vous avez des questions quant à cette politique de confidentialité, vous pouvez nous contacter à <a href="mailto:?to=contact@ecrivonsaupresident.yn.fr&subject=Question%20par%20rapport%20à%20la%20politique%20de%20confidentialité" title="Envoyer un mail">contact@ecrivonsaupresident.yn.fr</a>.</p>
       </section>
     </article>
 		<?php /* Footer */ include "includes/footer.php" ; ?>
