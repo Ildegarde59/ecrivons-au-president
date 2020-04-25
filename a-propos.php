@@ -23,7 +23,7 @@
         <p>Le directeur de la publication de ce site est Bastien Tréhoux. Pour le contacter, utilisez l’adresse de courriel ci-dessous.</p>
         <h3>Initiateurs du projet&nbsp;:</h3>
           <ul>
-            <li><a href="https://twitter.com/bastientrehoux" target="_blank" title="Compte Twitter de Bastien Tréhoux"><i class="fa fa-twitter" aria-hidden="true"></i> Bastien Tréhoux <i class="fa fa-external-link" aria-hidden="true"></i></a>, lycéen, Hauts-de-France</li>
+            <li>Bastien T., lycéen, Hauts-de-France</li>
             <li>Lorena M., lycéenne</li>
           </ul>
         <h2>Contributions</h2>
