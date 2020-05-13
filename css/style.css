@@ -123,6 +123,46 @@ h1[class="error-doc"] {
   color: white;
 }
 
+/* Formulaires */
+form {
+  font-family: inherit;
+  --webkit-appearance: none;
+  --moz-appearance: none;
+}
+
+form input {
+  margin: 0.5em;
+}
+
+
+input[type="text"], input[type="number"], select {
+  border-radius: 1em;
+  border: black solid 0.1em;
+  padding: 0.5em 1em 0.5em 1em;
+  box-shadow: white;
+  --webkit-appearance: none;
+  --moz-appearance: none;
+}
+
+input[type="submit"] {
+  background-color: mediumseagreen;
+  border: none;
+  padding: 0.5em;
+  border-radius: 0.5em;
+  color: white;
+  --webkit-appearance: none;
+  --moz-appearance: none;
+}
+
+input[type="submit"]:active {
+  padding: 0.4em;
+  margin: 0.6em;
+}
+
+input {
+  font-family: inherit;
+}
+
 /* Responsive design */
 @media (max-width: 720px) {
   footer .menu {
@@ -149,6 +189,12 @@ h1[class="error-doc"] {
 	html, body {
 		background-color: black;
 		color: white;
-	}
+  }
+  
+  input[type="text"], input[type="number"], select {
+    background-color: black;
+    border: white solid 0.1em;
+    color: white
+  }
 	
 }
